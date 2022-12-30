@@ -1,0 +1,1 @@
+C:\Users\Win10\Desktop\udemy_web_tasarim_ve_kodlama_ve_seo_egitim\Rust\rust\Sample\target\debug\sample.exe: C:\Users\Win10\Desktop\udemy_web_tasarim_ve_kodlama_ve_seo_egitim\Rust\rust\Sample\src\main.rs
